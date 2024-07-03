@@ -2,16 +2,17 @@
 
 
 <!--**health-statistico/health-statistico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**-->
-I am a health economist currently learning to use the following languages for health economics outcomes research:
+I am an early-career health economist currently learning to use the following languages for health economics outcomes research:
 - R
 - VBA for Excel
 - Stata
 
 I hope in future to add the following to my repertoire:
 - SAS
-- Shell scripting languages (powershell & bash)
 
-I hope to create a comprehensive & modular collection of scripts for use in HEOR & HTA. Feel free to use any code posted here publicly as you wish :) 
+### Why am I on github?
+1) In the short term: To learn and document along the way my progress in projects relating to health economics. Build a resource for easy reference to my previous work.
+2) In the medium to long term: Create a comprehensive & modular collection of simple scripts for use in HEOR & HTA, so that anyone can quickly obtain the results they need. These snippets of code will be commented along the way so that they can be understandable to those of any skill level.
 
 📫 How to reach me: arun.m.jones@gmail.com
 
