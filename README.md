@@ -11,7 +11,7 @@ I hope in future to add the following to my repertoire:
 - SAS
 - Shell scripting languages (powershell & bash)
 
-This is my personal code repository, but feel free to use any code posted here publicly as you wish :) 
+I hope to create a comprehensive & modular collection of scripts for use in HEOR & HTA. Feel free to use any code posted here publicly as you wish :) 
 
 📫 How to reach me: arun.m.jones@gmail.com
 
