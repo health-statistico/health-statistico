@@ -4,11 +4,8 @@
 <!--**health-statistico/health-statistico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**-->
 I am an early-career health economist currently learning to use the following languages for health economics outcomes research:
 - R
+- Julia
 - VBA for Excel
-- Stata
-
-I hope in future to add the following to my repertoire:
-- SAS
 
 ### Why am I on github?
 1) In the short term: To learn and document along the way my progress in projects relating to health economics. Build a resource for easy reference to my previous work.
